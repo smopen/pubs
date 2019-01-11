@@ -2,7 +2,7 @@
 
 *Author: Sean Murthy*
 
-This article is a gentle tutorial-style introduction to positional number systems. It introduces simple concepts such as digits, base, significance, place value, and conversion to decimal system. It includes simple exercises after introducting each concept. 
+This article is a gentle tutorial-style introduction to positional number systems. It introduces simple concepts such as digits, base, significance, place value, and conversion to decimal system. It also includes simple exercises to reinforce each concept introduced. 
 
 This tutorial was originally designed for students of [CS140](https://sites.wcsu.edu/murthys/teaching/cs140/), an introductory programming course at Western Connecticut State University. However, **the content is completely unrelated to programming**, and can be used by high school students, regardless of their interest in programming.
 
