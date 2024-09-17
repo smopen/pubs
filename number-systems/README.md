@@ -24,6 +24,6 @@ of term  decouples the math from programming which  makes it easier to learn the
 The approach also has the advantage of saving considerable class time.
 
 Please inform me if you find errors in the tutorial. The contact information is on Page 1
-of the tutorial.
+of the tutorial. I am also happy to accept pull requests.
 
 Sean Murthy. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
